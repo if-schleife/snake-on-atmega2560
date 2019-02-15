@@ -18,14 +18,15 @@ This is a test project with the purpose of practice, the sample code is without 
 
 Wiring: 
 
-Display                             MEGA 2560                                       Joystick      
-GND         -->                      GND                        <--                   ground
-VCC         -->                      5V                         <--                   +5v
-                                     A10                        <--                   VRX
-                                     A11                        <--                   VRY
-CS         -->                       PWM 10
-RESET      -->                       PWM 9
-A0         -->                       PWM 8
-SDA        -->                      Digital 51
-SCK        -->                      Digital 52
-LED        -->                      +3.3V
+|Display|              |               MEGA 2560      |                            |     Joystick |
+|  ---      |   ---   |             ---              |              ---         |           ---     |
+|GND      |   -->      |                GND           |             <--         |          ground|
+|VCC       |  -->       |               5V             |            <--         |          +5v|
+|           |            |              A10             |           <--         |          VRX|
+|         |               |             A11              |          <--         |          VRY|
+|CS       |  -->           |            PWM 10        |                 |               |
+|RESET    |  -->            |           PWM 9        |                 |               |
+|A0       |  -->             |          PWM 8        |                 |               |
+|SDA      |  -->              |        Digital 51        |                 |               |
+|SCK      |  -->               |       Digital 52        |                 |               |
+|LED      |  -->                |      +3.3V        |                 |               |
