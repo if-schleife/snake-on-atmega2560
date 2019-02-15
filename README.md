@@ -16,7 +16,7 @@ Disclamer:
 This is a test project with the purpose of practice, the sample code is without any warranties. Use at your own risk!
 
 
-Wiring:
+Wiring: 
 
 Display                             MEGA 2560                                       Joystick      
 GND         -->                      GND                        <--                   ground
