@@ -9,7 +9,7 @@ on an
    1,8 Zoll SPI TFT-Display(ST7735) 128x160 V1.1
 
 
-Dont forget the include the Libaries used in that code.
+Dont forget to include the Libaries used in the code.
 
 
 Disclamer:
